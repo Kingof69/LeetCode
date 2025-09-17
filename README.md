@@ -3,7 +3,8 @@
 Problems & Solutions
 
 Python full list. 
-♥ means it quite hard for me
+
+♥ denotes problems I find challenging.
 
 🔒 means you need a subscription.
 
