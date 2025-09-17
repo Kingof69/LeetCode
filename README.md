@@ -4,6 +4,7 @@ Problems & Solutions
 
 Python full list. 
 ♥ means it quite hard for me
+
 🔒 means you need a subscription.
 
 | #   | Title                                                                 | Solution                                                                                                                                         | Basic idea                                                               |
