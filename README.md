@@ -2,7 +2,7 @@
 
 Problems & Solutions
 
-Python full list. 
+NeetCode full list. 
 
 ♥ denotes problems I find challenging.
 
