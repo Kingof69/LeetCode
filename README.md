@@ -2,7 +2,9 @@
 
 Problems & Solutions
 
-Python full list. ♥ means it quite hard for me
+Python full list. 
+♥ means it quite hard for me
+🔒 means you need a subscription.
 
 | #   | Title                                                                 | Solution                                                                                                                                         | Basic idea                                                               |
 |-----|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
@@ -13,5 +15,5 @@ Python full list. ♥ means it quite hard for me
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Python](https://github.com/TranDucThien-0509/LeetCode/blob/main/NeetCode/Array%20%26%20Hashing/217.%20Contains%20Duplicate.py)                   | Hash set to detect duplicates in O(n).                                               |
 | 238 | [Product of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/) ♥ | [Python](https://github.com/TranDucThien-0509/LeetCode/blob/main/NeetCode/Array%20%26%20Hashing/238.%20Product%20of%20Array%20Except%20Self.py)  | Prefix and suffix product arrays in O(n) without division.                           |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)         | [Python](https://github.com/TranDucThien-0509/LeetCode/blob/main/NeetCode/Array%20%26%20Hashing/242.%20Valid%20Anagram.py)                       | Sort both strings or count characters.                                               |
-| 271 | Encode and Decode Strings                                            | [Python](https://github.com/TranDucThien-0509/LeetCode/blob/main/NeetCode/Array%20%26%20Hashing/271.%20Encode%20and%20Decode%20Strings.py)       | Use length-prefix encoding to handle arbitrary characters.                           |
+| 271 | Encode and Decode Strings 🔒                                          | [Python](https://github.com/TranDucThien-0509/LeetCode/blob/main/NeetCode/Array%20%26%20Hashing/271.%20Encode%20and%20Decode%20Strings.py)       | Use length-prefix encoding to handle arbitrary characters.                           |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](https://github.com/TranDucThien-0509/LeetCode/blob/main/NeetCode/Array%20%26%20Hashing/347.%20Top%20K%20Frequent%20Elements.py)         | Heap or bucket sort to get top k frequencies.                                        |
